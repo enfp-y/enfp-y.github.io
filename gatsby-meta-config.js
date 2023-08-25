@@ -1,6 +1,6 @@
 module.exports = {
-  title: `zoomkoding.com`,
-  description: `줌코딩의 개발일기`,
+  title: `연화의 비밀일기장`,
+  description: `잡학다식 공부 기록`,
   language: `ko`, // `ko`, `en` => currently support versions for Korean and English
   siteUrl: `https://www.zoomkoding.com`,
   ogImage: `/og-image.png`, // Path to your in the 'static' folder
@@ -11,10 +11,10 @@ module.exports = {
   },
   ga: '0', // Google Analytics Tracking ID
   author: {
-    name: `정진혁`,
+    name: `김연화`,
     bio: {
-      role: `개발자`,
-      description: ['사람에 가치를 두는', '능동적으로 일하는', '이로운 것을 만드는'],
+      role: `Sales`,
+      description: ['사람에 가치를 두는', '능동적으로 일하는', '호기심이 많은'],
       thumbnail: 'sample.png', // Path to the image in the 'asset' folder
     },
     social: {
