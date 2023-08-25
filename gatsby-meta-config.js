@@ -15,7 +15,7 @@ module.exports = {
     bio: {
       role: `Sales`,
       description: ['사람에 가치를 두는', '능동적으로 일하는', '호기심이 많은'],
-      thumbnail: 'sandy2.gif', // Path to the image in the 'asset' folder
+      thumbnail: '기며나.gif', // Path to the image in the 'asset' folder
     },
     social: {
       github: ``, // `https://enfp-y.github.io/`,
