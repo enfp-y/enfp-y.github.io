@@ -1,8 +1,8 @@
 module.exports = {
-  title: `연화의 비밀일기장`,
+  title: `★`,
   description: `잡학다식 공부 기록`,
   language: `ko`, // `ko`, `en` => currently support versions for Korean and English
-  siteUrl: `https://www.zoomkoding.com`,
+  siteUrl: `https://enfp-y.github.io/`,
   ogImage: `/og-image.png`, // Path to your in the 'static' folder
   comments: {
     utterances: {
