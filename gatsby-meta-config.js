@@ -43,12 +43,30 @@ module.exports = {
       // ========================================================
       // ========================================================
       {
-        date: '2021.02 ~',
-        activity: '개인 블로그 개발 및 운영',
+        date: '2013.02 ~ 2017.01',
+        activity: 'Lottecard | Mobile Voucher Operation Manager ',
         links: {
-          post: '/gatsby-starter-zoomkoding-introduction',
-          github: 'https://github.com/zoomkoding/zoomkoding-gatsby-blog',
-          demo: 'https://www.zoomkoding.com',
+          post: '',
+          github: '',
+          demo: '',
+        },
+      },
+      {
+        date: '2019.11 ~ 2020.10',
+        activity: 'Userhabit | UX analytics SaaS Sales Manager ',
+        links: {
+          post: '',
+          github: '',
+          demo: '',
+        },
+      },
+      {
+        date: '2021.04 ~ 2022.05',
+        activity: 'Unipoint | Jennifer/finance SI Sales Manager ',
+        links: {
+          post: '',
+          github: '',
+          demo: '',
         },
       },
     ],
