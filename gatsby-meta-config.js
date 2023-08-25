@@ -1,6 +1,6 @@
 module.exports = {
   title: `enfp-y.github.io`,
-  description: `Cloud sales 공부 기록`,
+  description: `잡학다식 공부 기록`,
   language: `ko`, // `ko`, `en` => currently support versions for Korean and English
   siteUrl: `https://enfp-y.github.io/`,
   ogImage: `/og-image.png`, // Path to your in the 'static' folder
@@ -99,11 +99,11 @@ module.exports = {
       // ========================================================
       // ========================================================
       {
-        title: '롯데모바일상품권 프로젝트',
+        title: '롯데상품권카드 모바일교환권 고도화 프로젝트',
         description:
-          '2013년 첫 사회생활로, 롯데카드에서 신규로 출시한 롯데모바일상품권과 함께 운영/기획 업무를 맡게되었습니다. 소셜커머스, 오픈마켓 등 다양한 판매 채널 확대, 총 100억 매출 달성. 면세점 전용 모바일 상품권 프로젝트 PL. 모바일 상품권 시스템 및 admin 기능 기획. 프로젝트 진척 및 인력 관리'
-        techStack: ['operation', 'abc'],
-        thumbnailUrl: 'blog.png',
+          '2013년 첫 사회생활로, 롯데카드에서 롯데상품권카드 모바일교환권 출시와 함께 운영 업무를 맡게되었습니다.',
+        techStack: ['Operation'],
+        thumbnailUrl: 'giftcard.png',
         links: {
           post: '',
           github: '',
