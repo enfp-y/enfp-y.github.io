@@ -69,6 +69,15 @@ module.exports = {
           demo: '',
         },
       },
+      {
+        date: '2022.10 ~ 현재',
+        activity: 'MegazoneCloud | AWS Game Group/scale Team Sales Manager ',
+        links: {
+          post: '',
+          github: '',
+          demo: '',
+        },
+      },
     ],
 
     projects: [
