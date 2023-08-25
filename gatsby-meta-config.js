@@ -101,9 +101,9 @@ module.exports = {
       {
         title: '롯데상품권카드 모바일교환권 고도화 프로젝트',
         description:
-          '2013년 첫 사회생활로, 롯데카드에서 롯데상품권카드 모바일교환권 출시와 함께 운영 업무를 맡게되었습니다.',
+          '2013년 첫 사회생활로, 롯데카드에서 롯데상품권카드 모바일교환권 출시와 함께 운영/기획 업무를 맡게되었습니다.',
         techStack: ['Operation'],
-        thumbnailUrl: 'giftcard.png',
+        thumbnailUrl: '',
         links: {
           post: '',
           github: '',
