@@ -1,7 +1,7 @@
 ---
 emoji: 🔮
 title: Gatsby 테마로 GitHub Blog 만들기
-date: '2023-08-04 00:00:00'
+date: '2023-08-03 00:00:00'
 author: 줌코딩
 tags: 블로그 github-pages gatsby
 categories: 스크랩
