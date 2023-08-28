@@ -1,10 +1,10 @@
 ---
 emoji: 🎉
 title: 01.
-date: '2023-08-25 15:00:00'
+date: '2023-08-05 15:00:00'
 author: yeonhwa
 tags: daily
-categories: daily
+categories: 일상
 ---
 
 ## 1. 띄어쓰기를 잘하자
