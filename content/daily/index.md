@@ -1,7 +1,7 @@
 ---
 emoji: 🎉
 title: 01.
-date: '2023-08-05 15:00:00'
+date: '2023-08-04 15:00:00'
 author: yeonhwa
 tags: daily
 categories: 일상
